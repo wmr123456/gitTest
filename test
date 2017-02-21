@@ -8,3 +8,4 @@ test3 doc!
 
 merge test3 and master!
 
+git pull test!
